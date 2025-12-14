@@ -202,6 +202,7 @@ O **Tempo no curso** é o principal preditor, validando os achados da análise d
 
 ## Apêndice
 
+
 ### A.1 Matriz de Confusão
 
 |        | Previsto 0 | Previsto 1 |
